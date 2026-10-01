@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "datalegion": {
+      "type": "http",
+      "url": "https://api.datalegion.ai/mcp"
+    }
+  }
+}

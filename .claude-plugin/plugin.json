@@ -1,0 +1,10 @@
+{
+  "name": "datalegion",
+  "displayName": "Data Legion",
+  "version": "1.0.0",
+  "description": "Enrich and search B2B person and company data from a conversation: look up people and companies, build target lists with search, clean inputs, and flag data issues.",
+  "author": { "name": "Data Legion", "url": "https://www.datalegion.ai" },
+  "homepage": "https://www.datalegion.ai/docs/integrations/mcp-server",
+  "license": "MIT",
+  "keywords": ["b2b data", "enrichment", "people search", "company data", "prospecting"]
+}
