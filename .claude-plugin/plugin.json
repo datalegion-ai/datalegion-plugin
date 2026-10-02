@@ -6,6 +6,8 @@
   "author": { "name": "Data Legion", "url": "https://www.datalegion.ai" },
   "homepage": "https://www.datalegion.ai/docs/integrations/mcp-server",
   "privacyPolicyUrl": "https://www.datalegion.ai/legal/privacy-policy",
+  "termsOfServiceUrl": "https://www.datalegion.ai/legal/terms",
+  "documentationUrl": "https://www.datalegion.ai/docs/integrations/mcp-server",
   "license": "MIT",
   "keywords": ["b2b data", "enrichment", "people search", "company data", "prospecting"]
 }
