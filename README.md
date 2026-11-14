@@ -7,7 +7,7 @@ Enrich and search B2B person and company data from a conversation with Claude.
 This plugin connects Claude to the Data Legion MCP server and adds four skills that tell Claude how to use it well:
 
 - **Enrich a list**: fill in titles, employers, contact details and firmographics for people or companies you share.
-- **Find people**: build target lists with search over people and companies.
+- **Find people**: build target lists from a plain-English request or with search over people and companies.
 - **Research a company**: turn a company's size, growth and hiring data into a short brief.
 - **Report a data issue**: flag a wrong or outdated record so Data Legion can fix it.
 
