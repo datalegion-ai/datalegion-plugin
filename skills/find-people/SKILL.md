@@ -1,6 +1,6 @@
 ---
 name: find-people
-description: Find people or companies that match criteria with Data Legion search. Use when the user wants a prospect or target list, for example "engineers at fintech companies in Austin" or "software companies with more than 200 employees".
+description: Find people or companies that match criteria with Data Legion Discover or search. Use when the user wants a prospect or target list, for example "engineers at fintech companies in Austin" or "software companies with more than 200 employees".
 ---
 
 To build a list:
